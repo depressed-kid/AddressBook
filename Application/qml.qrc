@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/ContactsModule/qmldir</file>
+        <file>qml/ContactsModule/Base/qmldir</file>
+        <file>qml/ContactsModule/Base/BaseListDelegate.qml</file>
+        <file>qml/ContactsModule/Base/BaseListView.qml</file>
+        <file>qml/ContactsModule/Base/BaseText.qml</file>
+        <file>qml/ContactsModule/Impl/qmldir</file>
+        <file>qml/ContactsModule/Impl/ContactsView.qml</file>
+        <file>qml/ContactsModule/Impl/ContactsDelegate.qml</file>
+        <file>qml/StyleModule/Styles.qml</file>
+        <file>qml/StyleModule/qmldir</file>
+        <file>qml/ComponentsModule/Buttons/AddButton.qml</file>
+        <file>qml/ComponentsModule/Buttons/qmldir</file>
+        <file>qml/ComponentsModule/qmldir</file>
+        <file>qml/ComponentsModule/SearchBar/qmldir</file>
+        <file>qml/ComponentsModule/SearchBar/SearchBar.qml</file>
+    </qresource>
+</RCC>
